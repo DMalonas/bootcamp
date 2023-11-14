@@ -1,0 +1,16 @@
+
+=
+java:S2129"!Remove this "Integer" constructor(ÿ®…j8Œ Ìé¼1
+K
+java:S1874"/Remove this use of "Integer"; it is deprecated.(ÿ®…j8 Ìé¼1
+A
+java:S2129"Remove this "Float" constructor(¿¤¹üÿÿÿÿÿ8 Ìé¼1
+O
+java:S1874"-Remove this use of "Float"; it is deprecated.(¿¤¹üÿÿÿÿÿ8 Ìé¼1
+=
+java:S2129	" Remove this "Double" constructor(úöº©8 Ìé¼1
+K
+java:S1874	".Remove this use of "Double"; it is deprecated.(úöº©8 Ìé¼1
+G	java:S106
+"+Replace this use of System.out by a logger.(®÷ÀÙ8 Ìé¼1
+G	java:S106"+Replace this use of System.out by a logger.(¥° ¤8 Ìé¼1

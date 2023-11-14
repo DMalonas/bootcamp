@@ -1,0 +1,37 @@
+
+L	java:S106F"+Replace this use of System.out by a logger.(ƒÇãˆúÿÿÿÿ8é¤º÷¼1
+o
+java:S3776J"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(ÇÁŠ8é¤º÷¼1
+G	java:S106K"+Replace this use of System.out by a logger.(éş¶è8ê¤º÷¼1
+G	java:S106L"+Replace this use of System.out by a logger.(Êñ¶¬8ë¤º÷¼1
+G	java:S106N"+Replace this use of System.out by a logger.(·¥ÒŸ8ë¤º÷¼1
+L	java:S106U"+Replace this use of System.out by a logger.(Ë¢ôÜùÿÿÿÿ8î¤º÷¼1
+L	java:S106X"+Replace this use of System.out by a logger.(Ùî×ôşÿÿÿÿ8ï¤º÷¼1
+G	java:S106["+Replace this use of System.out by a logger.(è×š8ï¤º÷¼1
+L	java:S106^"+Replace this use of System.out by a logger.(›ğ¡Åşÿÿÿÿ8ï¤º÷¼1
+F	java:S106a"+Replace this use of System.out by a logger.(Äß¾-8ğ¤º÷¼1
+G	java:S106d"+Replace this use of System.out by a logger.(Ó­¼8ğ¤º÷¼1
+F	java:S106g"+Replace this use of System.out by a logger.(†ÂÆ+8ñ¤º÷¼1
+G	java:S106j"+Replace this use of System.out by a logger.(Á³ı¨8ñ¤º÷¼1
+L	java:S106n"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ñ¤º÷¼1
+o
+java:S3776t"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(£‹ıÉ8ò¤º÷¼1
+\
+java:S1659w"?Declare "y1" and all following declarations on a separate line.(îĞ8ó¤º÷¼1
+G	java:S106{"+Replace this use of System.out by a logger.(óÚÌÇ8ö¤º÷¼1
+G	java:S106|"+Replace this use of System.out by a logger.(µÔÆñ8ö¤º÷¼1
+H	java:S106"+Replace this use of System.out by a logger.(‰ÏÉ˜8÷¤º÷¼1
+H	java:S106Œ"+Replace this use of System.out by a logger.(ÖÄ…ê8ø¤º÷¼1
+M	java:S106’"+Replace this use of System.out by a logger.(ó›šäşÿÿÿÿ8ø¤º÷¼1
+M	java:S106Ÿ"+Replace this use of System.out by a logger.(î¢êÿüÿÿÿÿ8†¥º÷¼1
+M	java:S106®"+Replace this use of System.err by a logger.(•©£Òıÿÿÿÿ8ƒ¥º÷¼1
+H	java:S106¶"+Replace this use of System.out by a logger.(¬±Î‚8ˆ¥º÷¼1
+M	java:S106¿"+Replace this use of System.out by a logger.(‡¯ëúûÿÿÿÿ8‰¥º÷¼1
+M	java:S106Ò"+Replace this use of System.out by a logger.(²ºììıÿÿÿÿ8ç’á÷¼1
+H	java:S106Õ"+Replace this use of System.err by a logger.(÷ôÜá8‰¥º÷¼1
+p
+java:S3776®"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¸Àé÷8¥º÷¼1
+k
+java:S1871É"MThis branch's code block is the same as the block for the branch on line 317.(Âğé½8‘¥º÷¼1
+p
+java:S1871Ö"MThis branch's code block is the same as the block for the branch on line 337.(ïºğüÿÿÿÿ8“¥º÷¼1

@@ -1,0 +1,20 @@
+
+Z
+java:S2589"8Remove this expression which always evaluates to "false"(Õ¢‡ƒùÿÿÿÿ8ëıˆë¼1
+T
+java:S2589"7Remove this expression which always evaluates to "true"(‚Òã 8ëıˆë¼1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Çµí‘8ïıˆë¼1
+[
+java:S1659">Declare "b" and all following declarations on a separate line.(ˆË ˜8ñıˆë¼1
+G	java:S106	"+Replace this use of System.out by a logger.(½˜¸8ôıˆë¼1
+L	java:S106"+Replace this use of System.out by a logger.(§³©ıÿÿÿÿ8÷ıˆë¼1
+L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8øıˆë¼1
+F	java:S106"+Replace this use of System.out by a logger.(Äˆ›t8øıˆë¼1
+G	java:S106"+Replace this use of System.out by a logger.(Ğ¡Äé8ùıˆë¼1
+F	java:S106"+Replace this use of System.out by a logger.(ìî­:8ùıˆë¼1
+G	java:S106 "+Replace this use of System.out by a logger.(¢Ş¹»8úıˆë¼1
+F	java:S106("+Replace this use of System.out by a logger.(ìî­:8úıˆë¼1
+G	java:S106+"+Replace this use of System.out by a logger.(¢Ş¹»8ûıˆë¼1
+L	java:S1063"+Replace this use of System.out by a logger.(¨”ŒÑøÿÿÿÿ8ûıˆë¼1
+G	java:S1066"+Replace this use of System.out by a logger.(•´Í‚8ûıˆë¼1

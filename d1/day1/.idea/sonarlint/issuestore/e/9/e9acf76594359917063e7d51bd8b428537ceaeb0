@@ -1,0 +1,12 @@
+
+\
+java:S1854
+"?Remove this useless assignment to local variable "shipCounter".(ú÷’Å8¹µ˜ê¼1
+M
+java:S1481
+"0Remove this unused "shipCounter" local variable.(ú÷’Å8Çµ˜ê¼1
+G	java:S106"+Replace this use of System.out by a logger.(Ö’¿¥8îÕ¥í¼1
+L	java:S106"+Replace this use of System.out by a logger.(‘™ßêùÿÿÿÿ8ğÕ¥í¼1
+F	java:S106"+Replace this use of System.out by a logger.(ğÎÑn8òÕ¥í¼1
+G	java:S106"+Replace this use of System.out by a logger.(ëòôÿ8óÕ¥í¼1
+F	java:S106"+Replace this use of System.out by a logger.(ğÎÑn8ôÕ¥í¼1

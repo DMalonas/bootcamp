@@ -1,0 +1,9 @@
+
+a
+java:S1192"FDefine a constant instead of duplicating this literal " a = " 4 times.(şÎ»çùÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(şÎ»çùÿÿÿÿ
+E	java:S106
+"+Replace this use of System.out by a logger.(ıèâıÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(˜™ôÂ
+?	java:S106"+Replace this use of System.out by a logger.(ÙËÂJ
+V	java:S125"<This block of commented-out lines of code should be removed.(­÷Óûÿÿÿÿ

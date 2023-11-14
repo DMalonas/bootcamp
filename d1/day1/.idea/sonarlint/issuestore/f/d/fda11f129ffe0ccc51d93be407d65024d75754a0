@@ -1,0 +1,12 @@
+
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«†Âè8êÌ¾ì¼1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒÃ§øÿÿÿÿ8êÌ¾ì¼1
+G	java:S106"+Replace this use of System.out by a logger.(÷È¡¼8÷Ì¾ì¼1
+l
+java:S1764"JCorrect one of the identical sub-expressions on both sides of operator "^"(Áö²Îÿÿÿÿÿ8÷Ì¾ì¼1
+L	java:S106"+Replace this use of System.out by a logger.(²İ Æüÿÿÿÿ8÷Ì¾ì¼1
+g
+java:S1764"JCorrect one of the identical sub-expressions on both sides of operator "^"(°Ú†İ8÷Ì¾ì¼1
+F	java:S106"+Replace this use of System.out by a logger.(ˆó_8÷Ì¾ì¼1
+G	java:S106"+Replace this use of System.out by a logger.(÷È¡¼8÷Ì¾ì¼1
+L	java:S106"+Replace this use of System.out by a logger.(šÊ‘¼ÿÿÿÿÿ8÷Ì¾ì¼1

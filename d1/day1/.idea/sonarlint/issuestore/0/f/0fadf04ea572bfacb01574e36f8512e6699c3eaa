@@ -1,0 +1,12 @@
+
+{
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ö…Ì×
+B
+java:S3599",Use another way to initialize this instance.(–æƒÑ
+o
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(–æƒÑ
+@	java:S106"+Replace this use of System.out by a logger.(èäÙ×
+E	java:S106"+Replace this use of System.out by a logger.(üÊ„¸şÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(¢¤Å¨ùÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(™©ç
+E	java:S106"+Replace this use of System.out by a logger.(­¸¤Êúÿÿÿÿ
